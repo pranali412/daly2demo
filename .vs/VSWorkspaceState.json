@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\Catalog\\Catalog.API"
   ],
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.deps.json
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.dll
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.pdb
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.dll
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.dll
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.pdb
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.pdb
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.dll
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\refint\Ordering.Infrastructure.dll
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
+C:\Users\Admin\source\repos\daly2demo\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
